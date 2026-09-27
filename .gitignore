@@ -1,0 +1,8 @@
+/target/
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+.env
+cookies.txt
+/.mvn/wrapper/maven-wrapper.jar
